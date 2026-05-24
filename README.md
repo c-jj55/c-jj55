@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**c-jj55/c-jj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧬 cjy's Dev Log
 
-Here are some ideas to get you started:
+👋 你好！这是一个正在建设与进化中的空间。
+目前我是一名在读学生，正在计算机与网络的世界里“攒经验值”。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 当前主线任务 / Current Focus
+- [ ] 夯实数据结构与底层逻辑（正在用 C/C++ 搬砖）
+- [ ] 摸索 Linux 系统与网络基础设施的配置调优
+- [ ] 攒一些实用的脚本和小工具，争取早日把热力图的绿色格子填满
+
+---
+
+### 📦 仓库与项目 / Projects
+*目前主要以课程作业、实验课代码和日常折腾的配置记录为主，虽然离成熟的开源项目还有距离，但每一个都在记录我的踩坑过程。*
+
+---
+
+### 🛠️ 正在熟悉的工具箱 / Tools
+*（谈不上精通，但正在高频折腾和使用中）*
+`C/C++` | `Linux` | `Git` | `Docker`
